@@ -4,15 +4,6 @@ A website based on MERN where on can add,edit,delete,view the book in a user-fri
 
 ## Screenshots
 
-![App Screenshot](<./Images/Screenshot (499).png>)
-![App Screenshot](<./Images/Screenshot (500).png>)
-![App Screenshot](<./Images/Screenshot (501).png>)
-![App Screenshot](<./Images/Screenshot (502).png>)
-![App Screenshot](<./Images/Screenshot (503).png>)
-![App Screenshot](<./Images/Screenshot (504).png>)
-![App Screenshot](<./Images/Screenshot (505).png>)
-![App Screenshot](<./Images/Screenshot (506).png>)
-
 ## NPM Packages
 
 #### Add IP address in mongoDBcluster and whitelist it.
