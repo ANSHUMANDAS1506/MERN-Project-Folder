@@ -2,8 +2,6 @@
 
 A website based on MERN where on can add,edit,delete,view the book in a user-friendly design and database is taken from mongoDB free tier edition
 
-## Screenshots
-
 ## NPM Packages
 
 #### Add IP address in mongoDBcluster and whitelist it.
